@@ -21,7 +21,8 @@ When the download finishes, go to downloads (Or the folder you previously chose 
 
 Go to custom installation to specify custom features (I recommend to check the option "tcl/tk and IDLE" because some of my projects use tkinter (tk))
 
-Recommendation:
+Recommendations (all these options):
+
 <img width="621" height="361" alt="Screenshot 2025-11-26 190537" src="https://github.com/user-attachments/assets/34836913-f95e-458a-bc27-0e10d0e6a570" />
 
 Follow the instructions on screen
